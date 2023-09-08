@@ -1,0 +1,15 @@
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\bin\Debug\net6.0\retangulo-sem-liskov.exe
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\bin\Debug\net6.0\retangulo-sem-liskov.deps.json
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\bin\Debug\net6.0\retangulo-sem-liskov.runtimeconfig.json
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\bin\Debug\net6.0\retangulo-sem-liskov.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\bin\Debug\net6.0\retangulo-sem-liskov.pdb
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\obj\Debug\net6.0\retangulo-sem-liskov.csproj.AssemblyReference.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\obj\Debug\net6.0\retangulo-sem-liskov.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\obj\Debug\net6.0\retangulo-sem-liskov.AssemblyInfoInputs.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\obj\Debug\net6.0\retangulo-sem-liskov.AssemblyInfo.cs
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\obj\Debug\net6.0\retangulo-sem-liskov.csproj.CoreCompileInputs.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\obj\Debug\net6.0\retangulo-sem-liskov.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\obj\Debug\net6.0\refint\retangulo-sem-liskov.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\obj\Debug\net6.0\retangulo-sem-liskov.pdb
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\obj\Debug\net6.0\retangulo-sem-liskov.genruntimeconfig.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\substituicao-liskov\retangulo-sem-liskov\obj\Debug\net6.0\ref\retangulo-sem-liskov.dll

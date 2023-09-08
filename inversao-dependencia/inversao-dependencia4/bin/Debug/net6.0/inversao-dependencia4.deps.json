@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "inversao-dependencia4/1.0.0": {
+        "runtime": {
+          "inversao-dependencia4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inversao-dependencia4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

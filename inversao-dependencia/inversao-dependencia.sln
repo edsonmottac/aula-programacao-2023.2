@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inversao-dependencia4", "D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\inversao-dependencia\inversao-dependencia4\inversao-dependencia4.csproj", "{C599C3E5-36E9-45A9-A86A-F9E066463C14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inversao-dependencia5", "D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\inversao-dependencia\inversao-dependencia5\inversao-dependencia5.csproj", "{FDFD2A20-B6AE-4246-8452-44CA86999301}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inversao-dependencia6", "inversao-dependencia6\inversao-dependencia6.csproj", "{F8057BCD-5F16-4168-BBDB-7FDC065BD390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C599C3E5-36E9-45A9-A86A-F9E066463C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C599C3E5-36E9-45A9-A86A-F9E066463C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C599C3E5-36E9-45A9-A86A-F9E066463C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C599C3E5-36E9-45A9-A86A-F9E066463C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFD2A20-B6AE-4246-8452-44CA86999301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFD2A20-B6AE-4246-8452-44CA86999301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFD2A20-B6AE-4246-8452-44CA86999301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFD2A20-B6AE-4246-8452-44CA86999301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8057BCD-5F16-4168-BBDB-7FDC065BD390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8057BCD-5F16-4168-BBDB-7FDC065BD390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8057BCD-5F16-4168-BBDB-7FDC065BD390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8057BCD-5F16-4168-BBDB-7FDC065BD390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56862449-BC35-481B-8C7C-E484D4C38F16}
+	EndGlobalSection
+EndGlobal

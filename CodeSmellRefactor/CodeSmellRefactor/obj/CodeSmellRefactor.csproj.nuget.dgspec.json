@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodeSmellRefactor\\CodeSmellRefactor\\CodeSmellRefactor.csproj": {}
+    "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\CodeSmellRefactor\\CodeSmellRefactor\\CodeSmellRefactor.csproj": {}
   },
   "projects": {
-    "D:\\CodeSmellRefactor\\CodeSmellRefactor\\CodeSmellRefactor.csproj": {
+    "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\CodeSmellRefactor\\CodeSmellRefactor\\CodeSmellRefactor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeSmellRefactor\\CodeSmellRefactor\\CodeSmellRefactor.csproj",
+        "projectUniqueName": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\CodeSmellRefactor\\CodeSmellRefactor\\CodeSmellRefactor.csproj",
         "projectName": "CodeSmellRefactor",
-        "projectPath": "D:\\CodeSmellRefactor\\CodeSmellRefactor\\CodeSmellRefactor.csproj",
+        "projectPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\CodeSmellRefactor\\CodeSmellRefactor\\CodeSmellRefactor.csproj",
         "packagesPath": "C:\\Users\\edson.mota\\.nuget\\packages\\",
-        "outputPath": "D:\\CodeSmellRefactor\\CodeSmellRefactor\\obj\\",
+        "outputPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\CodeSmellRefactor\\CodeSmellRefactor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edson.mota\\AppData\\Roaming\\NuGet\\NuGet.Config",
