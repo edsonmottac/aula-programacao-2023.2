@@ -1,0 +1,12 @@
+D:\BibliotecaRevisao\MyProject.MODEL\bin\Debug\net6.0\MyProject.MODEL.deps.json
+D:\BibliotecaRevisao\MyProject.MODEL\bin\Debug\net6.0\MyProject.MODEL.dll
+D:\BibliotecaRevisao\MyProject.MODEL\bin\Debug\net6.0\MyProject.MODEL.pdb
+D:\BibliotecaRevisao\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.csproj.AssemblyReference.cache
+D:\BibliotecaRevisao\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BibliotecaRevisao\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.AssemblyInfoInputs.cache
+D:\BibliotecaRevisao\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.AssemblyInfo.cs
+D:\BibliotecaRevisao\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.csproj.CoreCompileInputs.cache
+D:\BibliotecaRevisao\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.dll
+D:\BibliotecaRevisao\MyProject.MODEL\obj\Debug\net6.0\refint\MyProject.MODEL.dll
+D:\BibliotecaRevisao\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.pdb
+D:\BibliotecaRevisao\MyProject.MODEL\obj\Debug\net6.0\ref\MyProject.MODEL.dll
