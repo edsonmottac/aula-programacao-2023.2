@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BibliotecaRevisao\\MyProject.APP2\\MyProject.APP2.csproj": {}
+    "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.APP2\\MyProject.APP2.csproj": {}
   },
   "projects": {
-    "D:\\BibliotecaRevisao\\MyProject.APP2\\MyProject.APP2.csproj": {
+    "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.APP2\\MyProject.APP2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BibliotecaRevisao\\MyProject.APP2\\MyProject.APP2.csproj",
+        "projectUniqueName": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.APP2\\MyProject.APP2.csproj",
         "projectName": "MyProject.APP2",
-        "projectPath": "D:\\BibliotecaRevisao\\MyProject.APP2\\MyProject.APP2.csproj",
+        "projectPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.APP2\\MyProject.APP2.csproj",
         "packagesPath": "C:\\Users\\edson.mota\\.nuget\\packages\\",
-        "outputPath": "D:\\BibliotecaRevisao\\MyProject.APP2\\obj\\",
+        "outputPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.APP2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edson.mota\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\BibliotecaRevisao\\MyProject.BLL\\MyProject.BLL.csproj": {
-                "projectPath": "D:\\BibliotecaRevisao\\MyProject.BLL\\MyProject.BLL.csproj"
+              "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.BLL\\MyProject.BLL.csproj": {
+                "projectPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.BLL\\MyProject.BLL.csproj"
               },
-              "D:\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj": {
-                "projectPath": "D:\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj"
+              "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj": {
+                "projectPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj"
               }
             }
           }
@@ -62,18 +62,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.309\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.310\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\BibliotecaRevisao\\MyProject.BLL\\MyProject.BLL.csproj": {
+    "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.BLL\\MyProject.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BibliotecaRevisao\\MyProject.BLL\\MyProject.BLL.csproj",
+        "projectUniqueName": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.BLL\\MyProject.BLL.csproj",
         "projectName": "MyProject.BLL",
-        "projectPath": "D:\\BibliotecaRevisao\\MyProject.BLL\\MyProject.BLL.csproj",
+        "projectPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.BLL\\MyProject.BLL.csproj",
         "packagesPath": "C:\\Users\\edson.mota\\.nuget\\packages\\",
-        "outputPath": "D:\\BibliotecaRevisao\\MyProject.BLL\\obj\\",
+        "outputPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edson.mota\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,11 +90,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\BibliotecaRevisao\\MyProject.DAL\\MyProject.DAL.csproj": {
-                "projectPath": "D:\\BibliotecaRevisao\\MyProject.DAL\\MyProject.DAL.csproj"
+              "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.DAL\\MyProject.DAL.csproj": {
+                "projectPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.DAL\\MyProject.DAL.csproj"
               },
-              "D:\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj": {
-                "projectPath": "D:\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj"
+              "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj": {
+                "projectPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj"
               }
             }
           }
@@ -124,18 +124,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.309\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.310\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\BibliotecaRevisao\\MyProject.DAL\\MyProject.DAL.csproj": {
+    "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.DAL\\MyProject.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BibliotecaRevisao\\MyProject.DAL\\MyProject.DAL.csproj",
+        "projectUniqueName": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.DAL\\MyProject.DAL.csproj",
         "projectName": "MyProject.DAL",
-        "projectPath": "D:\\BibliotecaRevisao\\MyProject.DAL\\MyProject.DAL.csproj",
+        "projectPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.DAL\\MyProject.DAL.csproj",
         "packagesPath": "C:\\Users\\edson.mota\\.nuget\\packages\\",
-        "outputPath": "D:\\BibliotecaRevisao\\MyProject.DAL\\obj\\",
+        "outputPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edson.mota\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,8 +152,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj": {
-                "projectPath": "D:\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj"
+              "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj": {
+                "projectPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj"
               }
             }
           }
@@ -203,18 +203,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.309\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.310\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj": {
+    "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj",
+        "projectUniqueName": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj",
         "projectName": "MyProject.MODEL",
-        "projectPath": "D:\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj",
+        "projectPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.MODEL\\MyProject.MODEL.csproj",
         "packagesPath": "C:\\Users\\edson.mota\\.nuget\\packages\\",
-        "outputPath": "D:\\BibliotecaRevisao\\MyProject.MODEL\\obj\\",
+        "outputPath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.MODEL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edson.mota\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -258,7 +258,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.309\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.310\\RuntimeIdentifierGraph.json"
         }
       }
     }

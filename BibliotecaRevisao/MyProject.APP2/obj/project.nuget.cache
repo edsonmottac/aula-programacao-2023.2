@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S5Y9kqwJmVHitcsz4G4MlxDcjgW7gM+7WOuqMEPfGefXL3mwxVc2gHRvRIw4aJxLyTqIruNx5cIT1tL2JRAaqg==",
+  "dgSpecHash": "N720llFkoAia/x5BsVpUr7uSUk/tQRNZhVa/A4Q5H2663LOnJ4zvFOjfnplxOnYDLKr6EVmxTuND2tDfQpHucg==",
   "success": true,
-  "projectFilePath": "D:\\BibliotecaRevisao\\MyProject.APP2\\MyProject.APP2.csproj",
+  "projectFilePath": "D:\\Dropbox\\research\\academico\\AULAS\\ATIVIDADES\\2023.2\\cimatec\\disciplinas\\PROGRAMAÇÃO III\\codigos\\2023.2\\git\\BibliotecaRevisao\\MyProject.APP2\\MyProject.APP2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edson.mota\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\edson.mota\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
